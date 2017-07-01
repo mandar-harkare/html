@@ -1,0 +1,34 @@
+div.clear {
+    clear:both;
+}
+div.wrapper {
+    height: 100%;
+}
+div.right {
+    width: 80%;
+}
+div.right .page1 {
+    background-color: #FA1A0C;
+}
+div.right .page2 {
+    background-color: #FAA30C;
+}
+div.right .page3 {
+    background-color: #CBFA0C;
+}
+div.right .page4 {
+    background-color: #4DFA0C;
+}
+div.left {
+    background-color: #ccc;
+    width: 20%;
+}
+div.panel {
+    float:left;
+    height: 600px;
+}
+
+.nav-item {
+    width: 100%;
+}
+
